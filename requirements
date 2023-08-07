@@ -1,0 +1,6 @@
+request
+flask
+flask_cors
+sklearn
+pandas
+numpy
